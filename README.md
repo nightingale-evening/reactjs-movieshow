@@ -1,21 +1,4 @@
-# reactjs-moviecatalog-app
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)]
-[![GitHub stars](https://img.shields.io/github/stars/faniabdullah/reactjs-moviecatalog-app.svg?style=flat-square)](https://github.com/faniabdullah/reactjs-moviecatalog-app/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/faniabdullah/reactjs-moviecatalog-app.svg?style=flat-square)](https://github.com/faniabdullah/reactjs-moviecatalog-app/network)
-[![Mentioned in Awesome React](https://awesome.re/mentioned-badge.svg)](https://github.com/enaqx/awesome-react)
-
-The moviecatalog-app [React](http://facebook.github.io/react/index.html), loading data via [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
-
-![search](https://media.giphy.com/media/NcP1vplwBuk78LYhN7/giphy.gif)
-![darkmode](https://media.giphy.com/media/d0aIEaNl2J0JGkGK4m/giphy.gif)
-
-![dekstop](https://media.giphy.com/media/ymottNsmlYn6O29GtG/giphy.gif)
-
-## Demo
-[TMDb Movie Search - Live DEMO](https://faniabdullah.github.io/reactjs-moviecatalog-app/)
-
-## Features
+# Features
 * **Available offline**,
 You can still access the web without internet connection (make sure you've already load the web for atleast 1 time before).
 
@@ -48,11 +31,3 @@ If you would like to download the code and try it for yourself:
 2. Install packages: `npm install`
 3. Build project and launch: `npm run build` or `npm run start`
 4. Open your browser at: `http://localhost:8080`
-
-## Author
-[Fani Abdullah](https://www.instagram.com/fabduul/)
-
-If you like this project and wish to say to say thanks - I'm always open to a coffee!
-
-## License
-[MIT]
